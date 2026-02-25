@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "BudgetPVP-N9Km.aternos.me:12714", 
+    "ip": "BudgetPVP-N9Km.aternos.me", 
     "port": 12714,   
     "version": "1.12.1"   
   },
