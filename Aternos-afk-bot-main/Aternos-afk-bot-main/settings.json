@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "Epstein", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "BudgetPVP-N9Km.aternos.me:12714", 
+    "port": 12714,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": true,
+    "x": 0,
+    "y": 100,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "chalol78"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Where is my island?",
+        "I like little children!",
+        "I Like to goon to 9 year olds!"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
